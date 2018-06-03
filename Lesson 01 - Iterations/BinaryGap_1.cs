@@ -20,7 +20,6 @@ class Solution
         {
             if (gaps[i].Contains("0") && gaps[i].Length > biggestGap.Length )
             biggestGap = gaps[i];
-    
         }
     
         return biggestGap.Length;
