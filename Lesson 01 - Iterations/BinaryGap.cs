@@ -5,8 +5,10 @@ using System;
 // you can write to stdout for debugging purposes, e.g.
 // Console.WriteLine("this is a debug message");
 
-class Solution {
-    public int solution(int N) {
+class Solution
+{
+    public int solution(int N)
+    {
         // write your code in C# 6.0 with .NET 4.5 (Mono)
         
         string binary = Convert.ToString(N, 2);
@@ -24,3 +26,4 @@ class Solution {
         return biggestGap.Length;
     }
 }
+
