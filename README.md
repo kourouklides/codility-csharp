@@ -1,3 +1,3 @@
 # Codility Solutions in C#
 
-Solutions to Codility tests
+Solutions to Codility tests in C#: 
