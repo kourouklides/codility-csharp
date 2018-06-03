@@ -15,7 +15,7 @@ class Solution
     
         string[] gaps = binary.Split('1');
     
-        string biggestGap ="";
+        string biggestGap = "";
         for (int i = 0; i < (binary.EndsWith("1") ? gaps.Length : gaps.Length-1); i++)
         {
             if (gaps[i].Contains("0") && gaps[i].Length > biggestGap.Length )
