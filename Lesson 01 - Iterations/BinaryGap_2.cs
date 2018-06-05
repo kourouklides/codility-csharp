@@ -19,10 +19,7 @@ class Solution
         {
             if (i % 2 != 0)
             {
-               if(current_gap > max_gap)
-               {
-                    max_gap = current_gap;
-               }
+                max_gap = Math.Max(max_gap,current_gap);
                 current_gap = 0;
             }
             else if(current_gap >= 0)
