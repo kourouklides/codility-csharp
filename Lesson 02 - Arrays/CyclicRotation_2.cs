@@ -28,8 +28,8 @@ class Solution {
             i = K;
         }
         
-        int[] A1 = A.Skip(N-i).Take(i).ToArray();
-        int[] A2 = A.Skip(0).Take(N-i).ToArray();
+        var A1 = A.Skip(N-i).Take(i);
+        var A2 = A.Skip(0).Take(N-i);
         
         int[] B = A1.Concat(A2).ToArray();
         
