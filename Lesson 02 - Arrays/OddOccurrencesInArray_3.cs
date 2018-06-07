@@ -22,14 +22,14 @@ class Solution
         	}
         	else
         	{
-        		dictionary[number] = 2;
+        		dictionary[number] += 1;
         	}
         }
         
         int result = -1;
         
         foreach (var key in dictionary)
-        	if (key.Value == 1)
+        	if (key.Value % 2 == 1)
         	{
         		result = key.Key;
         	}
