@@ -48,6 +48,7 @@ class Solution
 }
 
 /*
+
 Task Score
 75%
 Correctness
@@ -55,6 +56,4 @@ Correctness
 Performance
 66%
 
-However, the Algorithm is 100% correct as its Python implementation passes all tests 100% succesfully:
-https://github.com/kourouklides/codility-python/blob/master/Lesson%2003%20-%20Time%20Complexity/TapeEquilibrium_1.py
 */
