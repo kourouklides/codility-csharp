@@ -20,7 +20,7 @@ class Solution
         int sum1_next = sum1+A[index1+1];
         int sum2_next = sum2+A[index2-1];
         
-        int diff = 0;
+        int diff = Math.Abs(sum1-sum2);
         
         while (index1 < index2)
         {   
