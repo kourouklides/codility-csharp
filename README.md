@@ -11,7 +11,7 @@ Solutions to Codility tests in C#: https://app.codility.com/programmers/
 
 **Lesson 2 - Arrays**
 
-- [CyclicRotation (Solution 1)](Lesson%2002%20-%20Arrays/CyclicRotation_1cs)
+- [CyclicRotation (Solution 1)](Lesson%2002%20-%20Arrays/CyclicRotation_1.cs)
 - [CyclicRotation (Solution 2)](Lesson%2002%20-%20Arrays/CyclicRotation_2.cs)
 - [OddOccurrencesInArray (Solution 1)](Lesson%2002%20-%20Arrays/OddOccurrencesInArray_1.cs)
 - [OddOccurrencesInArray (Solution 2)](Lesson%2002%20-%20Arrays/OddOccurrencesInArray_2.cs)
