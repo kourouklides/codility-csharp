@@ -11,20 +11,20 @@ Solutions to Codility tests in C#: https://app.codility.com/programmers/
 
 **Lesson 2 - Arrays**
 
-- [CyclicRotation (Solution 1)](Lesson%2002%20-%20Arrays/CyclicRotation_1.py)
-- [CyclicRotation (Solution 2)](Lesson%2002%20-%20Arrays/CyclicRotation_2.py)
-- [OddOccurrencesInArray (Solution 1)](Lesson%2002%20-%20Arrays/OddOccurrencesInArray_1.py)
-- [OddOccurrencesInArray (Solution 2)](Lesson%2002%20-%20Arrays/OddOccurrencesInArray_2.py)
-- [OddOccurrencesInArray (Solution 3)](Lesson%2002%20-%20Arrays/OddOccurrencesInArray_3.py)
+- [CyclicRotation (Solution 1)](Lesson%2002%20-%20Arrays/CyclicRotation_1cs)
+- [CyclicRotation (Solution 2)](Lesson%2002%20-%20Arrays/CyclicRotation_2.cs)
+- [OddOccurrencesInArray (Solution 1)](Lesson%2002%20-%20Arrays/OddOccurrencesInArray_1.cs)
+- [OddOccurrencesInArray (Solution 2)](Lesson%2002%20-%20Arrays/OddOccurrencesInArray_2.cs)
+- [OddOccurrencesInArray (Solution 3)](Lesson%2002%20-%20Arrays/OddOccurrencesInArray_3.cs)
 
 **Lesson 3 - Time Complexity**
 
 - [FrogJmp](Lesson%2003%20-%20Time%20Complexity/FrogJmp_1.py)
-- [PermMissingElem (Solution 1)](Lesson%2003%20-%20Time%20Complexity/PermMissingElem_1.py)
-- [PermMissingElem (Solution 2)](Lesson%2003%20-%20Time%20Complexity/PermMissingElem_2.py)
-- [TapeEquilibrium (Solution 1)](Lesson%2003%20-%20Time%20Complexity/TapeEquilibrium_1.py)
-- [TapeEquilibrium (Solution 2)](Lesson%2003%20-%20Time%20Complexity/TapeEquilibrium_2.py)
-- [TapeEquilibrium (Solution 3)](Lesson%2003%20-%20Time%20Complexity/TapeEquilibrium_3.py)
+- [PermMissingElem (Solution 1)](Lesson%2003%20-%20Time%20Complexity/PermMissingElem_1.cs)
+- [PermMissingElem (Solution 2)](Lesson%2003%20-%20Time%20Complexity/PermMissingElem_2.cs)
+- [TapeEquilibrium (Solution 1)](Lesson%2003%20-%20Time%20Complexity/TapeEquilibrium_1.cs)
+- [TapeEquilibrium (Solution 2)](Lesson%2003%20-%20Time%20Complexity/TapeEquilibrium_2.cs)
+- [TapeEquilibrium (Solution 3)](Lesson%2003%20-%20Time%20Complexity/TapeEquilibrium_3.cs)
 
 **Lesson 4 - Counting Elements**
 
