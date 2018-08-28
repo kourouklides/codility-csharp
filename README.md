@@ -4,10 +4,10 @@ Solutions to Codility tests in C#: https://app.codility.com/programmers/
 
 **Lesson 1 - Iterations**
 
- - [BinaryGap (Solution 1)](https://github.com/kourouklides/codility-csharp/blob/master/Lesson%2001%20-%20Iterations/BinaryGap_1.cs)
- - [BinaryGap (Solution 2)](https://github.com/kourouklides/codility-csharp/blob/master/Lesson%2001%20-%20Iterations/BinaryGap_2.cs)
- - [BinaryGap (Solution 3)](https://github.com/kourouklides/codility-csharp/blob/master/Lesson%2001%20-%20Iterations/BinaryGap_3.cs)
- - [BinaryGap (Solution 4)](https://github.com/kourouklides/codility-csharp/blob/master/Lesson%2001%20-%20Iterations/BinaryGap_4.cs)
+ - [BinaryGap (Solution 1)](Lesson%2001%20-%20Iterations/BinaryGap_1.cs)
+ - [BinaryGap (Solution 2)](Lesson%2001%20-%20Iterations/BinaryGap_2.cs)
+ - [BinaryGap (Solution 3)](Lesson%2001%20-%20Iterations/BinaryGap_3.cs)
+ - [BinaryGap (Solution 4)](Lesson%2001%20-%20Iterations/BinaryGap_4.cs)
 
 **Lesson 2 - Arrays**
 
